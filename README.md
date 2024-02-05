@@ -1,3 +1,3 @@
 # real_lolbins
 
-Lolbins real files archive.
+All lolbins file details for researchers.
